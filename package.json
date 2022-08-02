@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "close-with-grace": "^1.1.0",
+    "fastify": "^3.29.0",
+    "fastify-graceful-shutdown": "^3.2.0",
+    "fastify-plugin": "^3.0.1",
+    "pino": "^7.10.0"
+  }
+}
